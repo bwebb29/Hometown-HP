@@ -18,8 +18,10 @@ body {
     align-items: center;
     justify-content: center;
     width: 100%;
+    height: 500px;
     background-image: url(images/san-diego-sky.jpg);
     background-size: cover;
+    background-origin: border-box;
 }
 
 #hero h1,
